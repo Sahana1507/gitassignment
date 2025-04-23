@@ -6,6 +6,6 @@ def add_numbers(a: int, b: int) -> int:
 
 if __name__ == "__main__":
     A = 1
-    B = 2
+    B = 3
     RESULT = add_numbers(A, B)
     print(f"The sum of {A} and {B} is {RESULT}.")
